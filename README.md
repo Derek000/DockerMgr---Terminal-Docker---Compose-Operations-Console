@@ -1,6 +1,6 @@
-# dockermgr — Docker + Compose Management CLI (Live Dashboard + Menu Drill-Down)
+# dockermgr — Docker and Compose Management CLI (Live Dashboard + Menu Drill-Down)
 
-`dockermgr` is a terminal-first, SSH-friendly Docker management application with:
+`dockermgr` is a terminal first, SSH-friendly Docker management application with:
 
 - **Live front page dashboard**: host resources, compose projects, containers, images, and **recent Docker events**.
 - **Menu-driven drill-down**: per-container inspection/logs/stats and compose project actions.
